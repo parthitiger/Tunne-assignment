@@ -1,0 +1,20 @@
+body{
+    background-color:rgb(236, 234, 232);
+}
+.row {
+    color: black;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.details{
+    color: aquamarine;
+    background: rgb(23, 112, 73);
+    width: 70%;
+    margin: 12px
+}
+.inline {
+     background: rgb(149, 171, 133);
+     color :rgb(122, 76, 31);
+     border-radius: 20px;
+}
